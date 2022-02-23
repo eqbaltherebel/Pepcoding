@@ -44,4 +44,5 @@ for(let key in cap){
     console.log(cap[key])
 }
 let propkey = "age"
-console.log(cap[propkey])
+console.log(cap["age"])
+console.log(cap["age"])
